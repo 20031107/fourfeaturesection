@@ -45,6 +45,13 @@ main{
     gap: 10px;
    
 }
+
+img{
+    width: 40px;
+}
+p{
+    color: hsl(229, 6%, 66%);
+    font-size: 13px;
     margin-top: 15px;
 }
 h3{
